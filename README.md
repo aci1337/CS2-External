@@ -30,3 +30,5 @@ A simple external, made in C++ for CS2
 4. Build (to build just do CTRL B)
 5. Done!
 
+# Credits
+Credits for: TKazer
