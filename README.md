@@ -28,4 +28,4 @@ A simple external, made in C++ for CS2
 4. Build (to build just do CTRL B)
 5. Done!
 
-[Screenshot 2023-10-10 001850](https://github.com/aci1337/CS2-External/assets/111813352/12b22e1e-38f4-457c-a6ca-a0c3a9ee9941)
+![Screenshot 2023-10-10 001850](https://github.com/aci1337/CS2-External/assets/111813352/12b22e1e-38f4-457c-a6ca-a0c3a9ee9941)
