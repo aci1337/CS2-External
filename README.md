@@ -31,4 +31,5 @@ A simple external, made in C++ for CS2
 5. Done!
 
 # Credits
-Credits for: TKazer
+Credits to: TKazer
+(full love to this man)
