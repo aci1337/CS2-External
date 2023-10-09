@@ -1,0 +1,177 @@
+﻿  Bone.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.36.32532\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2065: 'IUnknown': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2760: syntax error: 'IUnknown' was unexpected here; expected 'type specifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): error C3878: syntax error: unexpected token '*' following 'expression'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): message : error recovery skipped: '* > (  . . . identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): message : error recovery skipped: ')'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(7,1): message : see previous definition of '_is_invalid'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(170,11): warning C4244: 'return': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(175,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(180,18): warning C4244: 'return': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(223,23): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(7,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(8,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(9,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(10,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\OS-ImGui\OS-ImGui_Exception.hpp(6,1): fatal  error C1189: #error:  "The Os-ImGui are available only with C++17 or later."
+  Cheats.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.36.32532\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2065: 'IUnknown': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2760: syntax error: 'IUnknown' was unexpected here; expected 'type specifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): error C3878: syntax error: unexpected token '*' following 'expression'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): message : error recovery skipped: '* > (  . . . identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): message : error recovery skipped: ')'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(7,1): message : see previous definition of '_is_invalid'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(170,11): warning C4244: 'return': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(175,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(180,18): warning C4244: 'return': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(223,23): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(7,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(8,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(9,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(10,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\OS-ImGui\OS-ImGui_Exception.hpp(6,1): fatal  error C1189: #error:  "The Os-ImGui are available only with C++17 or later."
+  Entity.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.36.32532\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2065: 'IUnknown': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2760: syntax error: 'IUnknown' was unexpected here; expected 'type specifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): error C3878: syntax error: unexpected token '*' following 'expression'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): message : error recovery skipped: '* > (  . . . identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): message : error recovery skipped: ')'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(7,1): message : see previous definition of '_is_invalid'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(170,11): warning C4244: 'return': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(175,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(180,18): warning C4244: 'return': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(223,23): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(7,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(8,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(9,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(10,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\OS-ImGui\OS-ImGui_Exception.hpp(6,1): fatal  error C1189: #error:  "The Os-ImGui are available only with C++17 or later."
+  Game.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.36.32532\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2065: 'IUnknown': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2760: syntax error: 'IUnknown' was unexpected here; expected 'type specifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): error C3878: syntax error: unexpected token '*' following 'expression'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): message : error recovery skipped: '* > (  . . . identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): message : error recovery skipped: ')'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(7,1): message : see previous definition of '_is_invalid'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(170,11): warning C4244: 'return': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(175,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(180,18): warning C4244: 'return': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(223,23): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(7,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(8,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(9,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(10,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\OS-ImGui\OS-ImGui_Exception.hpp(6,1): fatal  error C1189: #error:  "The Os-ImGui are available only with C++17 or later."
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2065: 'IUnknown': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2760: syntax error: 'IUnknown' was unexpected here; expected 'type specifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): error C3878: syntax error: unexpected token '*' following 'expression'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): message : error recovery skipped: '* > (  . . . identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): message : error recovery skipped: ')'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(7,1): message : see previous definition of '_is_invalid'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(170,11): warning C4244: 'return': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(175,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(180,18): warning C4244: 'return': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(223,23): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(7,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(8,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(9,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(10,15): error C7525: inline variables require at least '/std:c++17'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.36.32532\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\OS-ImGui\OS-ImGui_Exception.hpp(6,1): fatal  error C1189: #error:  "The Os-ImGui are available only with C++17 or later."
+  Offsets.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2065: 'IUnknown': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2760: syntax error: 'IUnknown' was unexpected here; expected 'type specifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): error C3878: syntax error: unexpected token '*' following 'expression'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): message : error recovery skipped: '* > (  . . . identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): message : error recovery skipped: ')'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(7,1): message : see previous definition of '_is_invalid'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(170,11): warning C4244: 'return': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(175,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(180,18): warning C4244: 'return': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(223,23): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(7,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(8,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(9,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.h(10,15): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.cpp(33,35): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.cpp(39,46): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.cpp(45,31): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Offsets.cpp(53,43): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+  imgui_impl_dx11.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2065: 'IUnknown': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2760: syntax error: 'IUnknown' was unexpected here; expected 'type specifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): error C3878: syntax error: unexpected token '*' following 'expression'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): message : error recovery skipped: '* > (  . . . identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): message : error recovery skipped: ')'
+  OS-ImGui.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2065: 'IUnknown': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2760: syntax error: 'IUnknown' was unexpected here; expected 'type specifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): error C3878: syntax error: unexpected token '*' following 'expression'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): message : error recovery skipped: '* > (  . . . identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): message : error recovery skipped: ')'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\OS-ImGui\OS-ImGui_Exception.hpp(6,1): fatal  error C1189: #error:  "The Os-ImGui are available only with C++17 or later."
+  OS-ImGui_Base.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2065: 'IUnknown': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2760: syntax error: 'IUnknown' was unexpected here; expected 'type specifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): error C3878: syntax error: unexpected token '*' following 'expression'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): message : error recovery skipped: '* > (  . . . identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): message : error recovery skipped: ')'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\OS-ImGui\OS-ImGui_Exception.hpp(6,1): fatal  error C1189: #error:  "The Os-ImGui are available only with C++17 or later."
+  OS-ImGui_External.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2065: 'IUnknown': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2760: syntax error: 'IUnknown' was unexpected here; expected 'type specifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): error C3878: syntax error: unexpected token '*' following 'expression'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): message : error recovery skipped: '* > (  . . . identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): message : error recovery skipped: ')'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\OS-ImGui\OS-ImGui_Exception.hpp(6,1): fatal  error C1189: #error:  "The Os-ImGui are available only with C++17 or later."
+  MemorySearch.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2065: 'IUnknown': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,21): error C2760: syntax error: 'IUnknown' was unexpected here; expected 'type specifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): error C3878: syntax error: unexpected token '*' following 'expression'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,29): message : error recovery skipped: '* > (  . . . identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um\combaseapi.h(234,35): message : error recovery skipped: ')'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(7,1): message : see previous definition of '_is_invalid'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(170,11): warning C4244: 'return': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(175,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(180,18): warning C4244: 'return': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\ProcessManager.hpp(223,23): error C7525: inline variables require at least '/std:c++17'
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\MemorySearch.cpp(10,14): warning C4267: 'initializing': conversion from 'size_t' to 'WORD', possible loss of data
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\MemorySearch.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\MemorySearch.cpp(53,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\MemorySearch.cpp(57,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\MemorySearch.cpp(62,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\aci25\OneDrive\Documents\New folder (5)\CS2_External\Utils\MemorySearch.cpp(80,23): warning C4267: 'initializing': conversion from 'size_t' to 'WORD', possible loss of data
