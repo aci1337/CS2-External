@@ -7,16 +7,14 @@
 
 namespace AimControl
 {
-	static int HotKey = VK_LMENU;	// Ãé×¼ÈÈ¼ü
-	static float AimRange = 600;	// Ãé×¼·¶Î§
+	static int HotKey = VK_LMENU;
+	static float AimRange = 600;	
     inline void CalculateViewAngles(const Vec3& AimPos, const Vec3& LocalPos, float& Yaw, float& Pitch)
     {
         Vec3 OppPos = AimPos - LocalPos;
 
-        // Calculate the distance between the two positions.
         float Distance = sqrt(pow(OppPos.x, 2) + pow(OppPos.y, 2));
 
-        // Calculate the Yaw angle.
         Yaw = atan2f(OppPos.y, OppPos.x) * 180 / M_PI;
 
         if (Distance > 0)
